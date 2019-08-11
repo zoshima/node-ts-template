@@ -1,8 +1,8 @@
 {
-  "name": "parallel",
+  "name": "node-ts-template",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "build": "tsc",
     "start": "tsc && node dist/app.js"
